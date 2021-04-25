@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "386602f6-c96f-4e5c-a397-cd18650b2ae5.sketchpad (6).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
